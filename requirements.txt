@@ -1,0 +1,15 @@
+streamlit
+flask
+librosa
+parselmouth
+numpy
+scipy
+mediapipe
+opencv-python
+torch
+torchvision
+nilearn
+anthropic
+plotly
+pandas
+jupyterlab
